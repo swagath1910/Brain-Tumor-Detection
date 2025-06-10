@@ -1,15 +1,15 @@
-# 🧠 Brain Tumor MRI Classification using VGG19
+# Brain Tumor MRI Classification using VGG19
 
 A deep learning-based project for classifying brain tumors from MRI images using the VGG19 model, achieving over **98% accuracy**. This system supports real-time predictions through a Flask web interface and is designed to assist radiologists with faster and more reliable diagnostics.
 
-## 🔍 Features
+## Features
 - Classifies MRI scans into 4 tumor types
 - Preprocessing: resizing, normalization, denoising
 - Fine-tuned VGG19 with dropout and class balancing
 - Real-time web predictions via Flask
 - Evaluation metrics: Accuracy, Precision, F1-Score, Recall
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.8+
