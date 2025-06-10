@@ -19,6 +19,6 @@ A deep learning-based project for classifying brain tumors from MRI images using
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/brain-tumor-vgg19.git
+git clone https://github.com/swagath1910/brain-tumor-vgg19.git
 cd brain-tumor-vgg19
 pip install -r requirements.txt
